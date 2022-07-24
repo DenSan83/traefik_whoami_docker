@@ -14,6 +14,7 @@ This project was build for **Origins-Digital** (formerly *On Rewind*). It shows 
 **[Turn off](#turn-off)** .
 **[Extensibility](#extensibility)** .
 **[Documentation](#documentation)** .
+**[Bonus](#bonus)** .
 
 ---
 
